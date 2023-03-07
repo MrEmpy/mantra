@@ -14,7 +14,7 @@ In summary, this tool is an efficient and accurate solution to help secure your 
 ![](assets/help.png)
 
 ## Usage
-![](assets/usage.png)
+![](assets/usage1.png)
 
 ## Install
 
