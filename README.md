@@ -24,3 +24,7 @@ cd Mantra
 make
 ./build/mantra-amd64-linux -h
 ```
+
+## Buy me a coffee?
+
+<img src="https://static.livepix.gg/images/logo.svg" height="50" widght="50" onclick="window.location.href = 'https://livepix.gg/mrempy';">
