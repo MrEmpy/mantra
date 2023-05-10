@@ -27,4 +27,6 @@ make
 
 ## Buy me a coffee?
 
-<img src="https://static.livepix.gg/images/logo.svg" height="50" widght="50" onclick="window.location.href = 'https://livepix.gg/mrempy';">
+<img src="https://static.livepix.gg/images/logo.svg" height="50" widght="50">
+
+[LivePix](https://livepix.gg/mrempy)
