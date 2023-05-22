@@ -30,3 +30,7 @@ make
 <img src="https://static.livepix.gg/images/logo.svg" height="50" widght="50">
 
 [LivePix](https://livepix.gg/mrempy)
+
+<img src="https://play-lh.googleusercontent.com/aMb_Qiolzkq8OxtQZ3Af2j8Zsp-ZZcNetR9O4xSjxH94gMA5c5gpRVbpg-3f_0L7vlo" height="50" widght="50">
+
+[Buy me a coffe](https://www.buymeacoffee.com/mrempy)
