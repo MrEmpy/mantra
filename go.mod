@@ -1,3 +1,3 @@
-module github.com/MrEmpy/mantra
+module github.com/MrEmpy/Mantra
 
 go 1.18
