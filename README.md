@@ -18,6 +18,14 @@ In summary, this tool is an efficient and accurate solution to help secure your 
 
 ## Install
 
+From go:
+
+```
+go install github.com/MrEmpy/Mantra@latest
+```
+
+From source code:
+
 ```
 git clone https://github.com/MrEmpy/Mantra
 cd Mantra
