@@ -1,0 +1,32 @@
+name: GoReleaser
+
+on:
+  push:
+    tags:
+      - "*"
+    paths-ignore:
+      - "!main.go"
+
+permissions:
+  contents: write
+
+jobs:
+  releaser:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Setup Go version
+        uses: actions/setup-go@v3
+
+      - name: Run GoReleaser
+        uses: goreleaser/goreleaser-action@v4
+        with:
+          distribution: goreleaser
+          version: latest
+          args: release --clean
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
