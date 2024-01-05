@@ -21,14 +21,14 @@ In summary, this tool is an efficient and accurate solution to help secure your 
 From go:
 
 ```
-go install github.com/MrEmpy/Mantra@latest
+go install github.com/MrEmpy/mantra@latest
 ```
 
 From source code:
 
 ```
-git clone https://github.com/MrEmpy/Mantra
-cd Mantra
+git clone https://github.com/MrEmpy/mantra
+cd mantra
 make
 ./build/mantra-amd64-linux -h
 ```
