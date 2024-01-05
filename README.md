@@ -21,23 +21,19 @@ In summary, this tool is an efficient and accurate solution to help secure your 
 From go:
 
 ```
-go install github.com/MrEmpy/Mantra@latest
+go install github.com/MrEmpy/mantra@latest
 ```
 
 From source code:
 
 ```
-git clone https://github.com/MrEmpy/Mantra
-cd Mantra
+git clone https://github.com/MrEmpy/mantra
+cd mantra
 make
 ./build/mantra-amd64-linux -h
 ```
 
 ## Buy me a coffee?
-
-<img src="https://static.livepix.gg/images/logo.svg" height="50" widght="50">
-
-[LivePix](https://livepix.gg/mrempy)
 
 <img src="https://play-lh.googleusercontent.com/aMb_Qiolzkq8OxtQZ3Af2j8Zsp-ZZcNetR9O4xSjxH94gMA5c5gpRVbpg-3f_0L7vlo" height="50" widght="50">
 
